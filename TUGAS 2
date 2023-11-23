@@ -17,3 +17,16 @@ while not at_goal():#diulangi selama tidak di goal
         lompat()
     else:
         move()
+
+#hardle 4
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+def lompat():
+    turn_left()
+    move()
+    turn_right()
+    move()
+   
