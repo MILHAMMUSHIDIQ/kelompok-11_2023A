@@ -21,14 +21,6 @@ lompat()
 lompat()
 lompat()
 
-
-
-
-
-
-
-
-
 #hardle 2
 def turn_right():
     turn_left()
