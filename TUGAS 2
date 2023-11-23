@@ -8,7 +8,17 @@ def lompat():
     move()
     turn_left()
     move()
+    turn_right
+    move()
     turn_right()
+    move()
+    turn_left()
+
+while not at_goal():
+    lompat()
+    if at_goal():
+        done()
+    
    
 #hardle 3
 def turn_right():
