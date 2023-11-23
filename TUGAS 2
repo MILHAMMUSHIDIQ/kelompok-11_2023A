@@ -1,3 +1,15 @@
+#hardle 2
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+def lompat():
+    move()
+    turn_left()
+    move()
+    turn_right()
+   
 #hardle 3
 def turn_right():
     turn_left()
